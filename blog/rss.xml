@@ -4,9 +4,16 @@
         <title>My Note Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
         <description>My Note Blog</description>
-        <lastBuildDate>Sun, 04 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AC 推特專案 工具應用．解決問題]]></title>
+            <link>https://your-docusaurus-test-site.com/note/blog/acTwitter</link>
+            <guid>acTwitter</guid>
+            <pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[解決問題情境:]]></description>
+        </item>
         <item>
             <title><![CDATA[AC 2–1 心得]]></title>
             <link>https://your-docusaurus-test-site.com/note/blog/ac2-1</link>

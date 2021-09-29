@@ -1,0 +1,1 @@
+(self.webpackChunknote=self.webpackChunknote||[]).push([[38],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"AC \u63a8\u7279\u5c08\u6848 \u5de5\u5177\u61c9\u7528\uff0e\u89e3\u6c7a\u554f\u984c","permalink":"/note/blog/acTwitter"},{"title":"AC 2\u20131 \u5fc3\u5f97","permalink":"/note/blog/ac2-1"}]}')}}]);
